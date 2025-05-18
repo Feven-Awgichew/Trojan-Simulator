@@ -4,7 +4,7 @@ This educational tool, Trojan Simulator, offers a hands-on way to learn about Tr
 
 # Installation
 
-#Clone the repository
+#Clone the repository <br />
 git clone https://github.com/Feven-Awgichew/Trojan-Simulator.git
 
 #Navigate into the folder
