@@ -4,20 +4,19 @@ This educational tool, Trojan Simulator, offers a hands-on way to learn about Tr
 
 # Installation
 
-#Clone the repository <br />
-git clone https://github.com/Feven-Awgichew/Trojan-Simulator.git
+Clone the repository <br />
+`git clone https://github.com/Feven-Awgichew/Trojan-Simulator.git`
 
-#Navigate into the folder
-cd Trojan-Simulator
+Navigate into the folder <br />
+`cd Trojan-Simulator`
 
-#Initialize a Node.js Project
-npm init -y
+Initialize a Node.js Project <br />
+`npm init -y`
 
-#Install express
-npm install express
+Install express <br />
+`npm install express`
 
-#Start the Node.js Server
-node server.js
+Start the Node.js Server <br />
+`node server.js`
 
-#Open Your Browser
-Navigate to http://localhost:3000
+Open Your Browser: Navigate to http://localhost:3000
